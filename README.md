@@ -48,7 +48,7 @@ One of the components you'll need to setup is the Netmaker UI, orchestration lay
 
 Once you have the server installed, you'll be able to onboard new clients (nodes or peers) in your overlay network. You have various options to onboard a new client: your host system using the netmaker client, a physical router, a docker container, a Kubernetes helm chart, a binary etc.
 
-    Please note here that you still need something "physical" in the camera network, but no full blown NVR with expensive harddisk. You might potentially reuse some existing server or small compute.
+> !! Please note here that you still need something "physical" in the camera network, but no full blown NVR with expensive harddisk. You might potentially reuse some existing server or small compute !!
 
 [Follow the instructions here](https://netmaker.readthedocs.io/en/master/netclient.html#joining-a-network)
 
